@@ -1,14 +1,14 @@
 ## 👋 Hi there! 
 
-My name is Matt, and I'm a Management Consultant by trade. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I set to work building the skills to turn this passion into a career - since 2020 I've spent my evenings and weekends learning Python (and some SQL & Bash).
+My name is Matt, and I'm a Management Consultant by trade. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. I set to work building the skills to turn this passion into a career - since 2020 I've spent my evenings and weekends learning Python (and some SQL & Bash).
 
 ## 🌱 What I’m currently learning:
 
-I'm learning how to build more advanced REST APIs with Flask, including the use of Postman to test endpoints.
+I'm learning how to build more advanced REST APIs with Flask, including how to use Postman to test endpoints.
 
 ## 👁️ I’m looking for:
 
-A programming role where I can contribute, expand my knowledge, and be part of a great team. And a transition to programming slightly less on evenings & weekends! I bring with me 4+ years of consulting experience - analytical skills, stakeholder management & professional awareness of project work (largely in system led transformation programs) in some of the UK's biggest organisations.  
+A programming role where I can contribute, expand my knowledge, and be part of a great team. I bring with me 4+ years of consulting experience - analytical skills, stakeholder management & professional awareness of project work (largely in system led transformation programs) in some of the UK's largest organisations.  
 
 ## 📫 Get in touch:
 - Email: matt.howard91@gmail.com
