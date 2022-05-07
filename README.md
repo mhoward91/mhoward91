@@ -4,27 +4,12 @@ My name is Matt, and I'm a Management Consultant by trade. I started learning ho
 
 ## 🌱 What I’m currently learning:
 
-I'm learning how to build more advanced REST APIs with Flask, including how to use Postman to test endpoints.
+I'm learning how to build more advanced REST APIs with Flask, including how to use Postman for comprehensive testing.
 
 ## 👁️ I’m looking for:
 
-A programming role where I can contribute, expand my knowledge, and be part of a great team. I bring with me 4+ years of consulting experience - analytical skills, stakeholder management & professional awareness of project work (largely in system led transformation programs) in some of the UK's largest organisations.  
+A backend Engineering role where I can contribute to meaningful projects, listen & learn from peers to expand my knowledge, and be part of a great team. As well as the technical skills I've built and demonstrated on my page, I bring with me 4+ years of consulting experience - key analytical skills, stakeholder management & professional awareness of agile project work (largely in system led transformation programs) in some of the UK's largest organisations.  
 
 ## 📫 Get in touch:
 - Email: matt.howard91@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mahz/
-
-<!--
-**mhoward91/mhoward91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
