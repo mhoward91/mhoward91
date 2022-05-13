@@ -33,7 +33,7 @@ I'm learning how to build more advanced REST APIs with Flask, including how to e
 A role in software engineering or development where I can continue to grow my knowledge of Python and other languages, make a meaningful contribution, and be part of a great team.
 
 ## 💡 Last word - why I'm different
-I bring a unique combination of technical skills, as well as the confidence, analytical ability, soft skills and professionalism from the consulting industry. I can collect and interpret the requirements, write the code, and have conversations at the right level so people understand. Python isn't the only language I love - I speak Spanish fluently and am slowly improving my French.
+I bring a unique combination of technical skills, as well as the confidence, analytical ability, soft skills and professionalism from the consulting industry. I can collect and interpret requirements, write the code, and have conversations at the right level so people understand. Python isn't the only language I love - I speak Spanish fluently and am improving my French.
 
 ## 💬 Get in touch
 - Email: matt.howard91@gmail.com
