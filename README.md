@@ -1,15 +1,40 @@
 ## 👋 Hi there! 
 
-My name is Matt, and I'm a Management Consultant by trade. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. I set to work building the skills to turn this passion into a career - since 2020 I've spent my evenings and weekends learning Python (and some SQL & Bash).
+My name is Matt, and I'm a Management Consultant by trade. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. I set to work building the skills to turn this passion into a career - since 2020 I've spent my evenings and weekends learning Python, its frameworks and other critical computer science concepts & skills. 
 
-## 🌱 What I’m currently learning:
+## 🧠 What I've learned 
+#### Frameworks & Technologies
+- Flask
+- AWS - Lambda, API Gateway, Dynamo NoSQL databases
+- SQL & SQLite
+- Beautiful Soup
+- Pandas, NumPy, Scikit-learn
+- Tkinter
 
-I'm learning how to build more advanced REST APIs with Flask, including how to use Postman for comprehensive testing.
+#### Key Skills
+- Git, Git Bash, GitHub
+- Data structures & algorithms (Big O, recursion, linked lists, stacks & queues, trees, graphs)
+- Unit testing, test driven development
+- Regular Expressions
+- Debugging & error handling
+- Markdown
 
-## 👁️ I’m looking for:
+## 🌱 What I’m currently learning
 
-A role in software engineering or development where I can contribute to meaningful projects, learn from peers to expand my knowledge, and be part of a great team. As well as the technical skills I've built and demonstrated on my page, I bring with me 4+ years of consulting experience - key analytical skills, stakeholder management & professional awareness of agile project work (largely in system led transformation programs) in some of the UK's largest organisations.  
+I'm learning how to build more advanced REST APIs with Flask, including how to effectively use Postman for test driven development, and post-development endpoint testing.
 
-## 📫 Get in touch:
+## 🦉 Professional Experience
+- 4 + years experience in Management Consulting for clients in manufacturing, financial services, government and publishing
+- Led change, process & organisation design workstreams for complex, agile system implementations in major UK organisations
+- Advanced analytical, stakeholder management, workshop faciliation and presentation skills
+
+## 👁️ I’m looking for
+
+A role in software engineering or development where I can continue to grow my knowledge of Python and other languages, make a meaningful contribution, and be part of a great team.
+
+## 💡 Last word - why I'm different
+I bring a unique combination of technical skills, as well as the confidence, analytical ability, soft skills and professionalism from the consulting industry. I can collect and interpret the requirements, write the code, and have conversations at the right level so people understand. Python isn't the only language I love - I speak Spanish fluently and am slowly improving my French.
+
+## 💬 Get in touch
 - Email: matt.howard91@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mahz/
