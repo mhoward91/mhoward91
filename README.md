@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 
-My name is Matt, and I'm a Management Consultant by trade. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. I set to work building the skills to turn this passion into a career - since 2020 I've spent my evenings and weekends learning Python, its frameworks and other critical computer science concepts & skills. 
+My name is Matt, and I'm a Management Consultant by trade. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. I set to work building the skills to turn this passion into a career - since 2020 I've invested my evenings, weekends and even some holidays into learning Python, its frameworks and other critical computer science concepts & skills. 
 
 ## 🧠 What I've learned 
 #### Frameworks & Technologies
