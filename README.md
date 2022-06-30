@@ -21,7 +21,8 @@ My name is Matt, and I'm a Management Consultant by trade. I started learning ho
 
 ## 🌱 What I’m currently learning
 
-I'm learning how to build more advanced REST APIs with Flask, including how to effectively use Postman for test driven development, and post-development endpoint testing.
+- Advanced REST APIs with Flask, including the use of Postman for comprehensive, automated testing
+- CSS & Javascript
 
 ## 🦉 Professional Experience
 - 4 + years experience in Management Consulting for clients in manufacturing, financial services, government and publishing
