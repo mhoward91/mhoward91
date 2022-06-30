@@ -6,9 +6,9 @@ My name is Matt, and I'm a Management Consultant by trade. I started learning ho
 #### Frameworks & Technologies
 - Flask
 - AWS - Lambda, API Gateway, Dynamo NoSQL databases
-- SQL & SQLite
-- Beautiful Soup
+- SQL, SQLite, SQLAlchemy
 - Pandas, NumPy, Scikit-learn
+- Beautiful Soup
 - Tkinter
 
 #### Key Skills
