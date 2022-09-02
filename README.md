@@ -1,27 +1,20 @@
 ## 👋 Hi there! 
 
-My name is Matt, and I'm a Management Consultant-turned-Software Developer. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. I set to work building the skills to turn this passion into a career - since 2020 I've invested my evenings, weekends and even some holidays into learning Python, its frameworks and other critical computer science concepts & skills. 
+My name is Matt, and I'm a Management Consultant-turned-Software Developer. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. I set to work building the skills to turn this passion into a career - since 2020 I've invested my evenings, weekends and even some holidays into learning programming languages, frameworks and other critical computer science concepts & skills. 
 
 ## 🧠 What I've learned 
-#### Frameworks & Technologies
-- Flask
-- AWS - Lambda, API Gateway, Dynamo NoSQL databases
-- SQL, SQLite, SQLAlchemy
-- Pandas, NumPy, Scikit-learn
-- Beautiful Soup & Tkinter
-- HTML & CSS
-
-#### Key Skills
-- Git, Git Bash, GitHub
-- Data structures & algorithms (Big O, recursion, linked lists, stacks & queues, trees, graphs)
-- Postman, Unit testing, test driven development
-- Regular expressions
-- Debugging & error handling
+- **Backend** - Python | Flask | Node.js | Express.js
+- **Frontend** - JavaScript | TypeScript | Vue | HTML | CSS
+- **Databases** - SQLite | PostgreSQL | MongoDB
+- **ORMs/ODMs** - SQLAlchemy | Mongoose
+- **Cloud** - AWS Lambda | API Gateway
+- **Tooling** - Git | GitHub | Postman
+- **Other Skills** - Data structures & alogrithms | Regular expressions | Unit testing
+- **Methodologies** - TDD | Scrum
 
 ## 🌱 What I’m currently learning
 
-- Bootstrap
-- Javascript
+- Rust
 
 ## 🦉 Professional Experience
 - 4 + years experience in Management Consulting for clients in manufacturing, financial services, government and publishing
