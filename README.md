@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 
-My name is Matt, and I'm a Management Consultant-turned-Software Developer. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. I set to work building the skills to turn this passion into a career - since 2020 I've invested my evenings, weekends and even some holidays into learning programming languages, frameworks and other critical computer science concepts & skills. 
+My name is Matt, and I'm a Management Consultant-turned-Software Developer. I started learning how to program to make me a more versatile consultant, but I immediately developed a passion. I was hooked. Between 2020 & 2022 I invested my evenings, weekends and even some holidays into building the skills to turn this passion into a career, and subsequently secured a full time developer role.
 
 ## 🧠 What I've learned 
 - **Backend** - Python | Flask | Node.js | Express.js
@@ -9,7 +9,7 @@ My name is Matt, and I'm a Management Consultant-turned-Software Developer. I st
 - **ORMs/ODMs** - SQLAlchemy | Mongoose
 - **Cloud** - AWS Lambda | API Gateway
 - **Tooling** - Git | GitHub | Postman
-- **Other Skills** - Data structures & alogrithms | Regular expressions | Unit testing
+- **Other Skills** - Data structures & alogrithms | Regex | Unit testing
 - **Methodologies** - TDD | Scrum
 
 ## 🌱 What I’m currently learning
